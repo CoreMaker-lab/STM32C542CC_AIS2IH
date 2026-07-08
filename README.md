@@ -4,7 +4,7 @@
 
 # Overview
 - **Name**: AIS2IH-V1.0
-- **MCU**: STM32C552CCT6
+- **MCU**: STM32C542CCT6
 - **IDE**: STM32CUBEMX2+STM32CUBEIDE
 
 
